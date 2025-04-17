@@ -1,3 +1,26 @@
+MOVIE SEARCH APPLICATION
+COMPANY: CODTECH IT SOLUTIONS
+NAME: GYANENDRA MISHRA
+INTERN ID: CT04WL10
+DOMAIN: REACT.JS
+DURATION: 4 WEEKS
+MENTOR: NEELA SANTOSH
+
+🔧 Tools & Technologies Used:
+Frontend (Client-side):
+
+React.js: For building reusable UI components and managing state.
+
+Axios: For making API requests to fetch movie data.
+
+CSS: For responsive and clean UI styling.
+
+API Used:
+
+OMDb API (http://www.omdbapi.com/): For fetching movie details by title or keyword.
+
+
+
 <<<<<<< HEAD
 # Getting Started with Create React App
 
