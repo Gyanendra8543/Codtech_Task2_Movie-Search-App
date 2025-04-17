@@ -19,6 +19,7 @@ API Used:
 
 OMDb API (http://www.omdbapi.com/): For fetching movie details by title or keyword.
 
+WEBSITE LOOK LIKE   ![Image](https://github.com/user-attachments/assets/8d28c2ff-3783-478f-8b2f-d4d654022602)
 
 
 <<<<<<< HEAD
